@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+    margin: auto;
+    max-width: 700px;
+    padding:0;
+    background-color: rgb(36, 36, 36);
+    color: rgb(235, 235, 222);
+}
+header{
+    color: aliceblue;
+    background-color: rgb(223, 15, 15);
+    padding: 5px;
+}
+main{
+    color: black;
+    background-color:white;
+    padding: 10px;
+}
+footer{
+    color: whitesmoke;
+    background-color: red;
+    padding: 5px;
+}
+div{
+    padding: 10px;
+    margin: 5px;
+    color: black;
+    font-weight: bold;
+    background-color:rgb(255, 233, 233);
+}
+a{
+    background-color: rgb(223, 15, 15);
+    color: rgb(255, 233, 233);
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+}
